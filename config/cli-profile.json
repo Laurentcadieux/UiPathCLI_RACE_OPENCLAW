@@ -1,0 +1,11 @@
+{
+  "version": "1.202",
+  "defaultProfile": "default",
+  "profiles": {
+    "default": {
+      "organization": "",
+      "tenant": "",
+      "folder": ""
+    }
+  }
+}
