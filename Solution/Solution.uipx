@@ -1,0 +1,10 @@
+{
+  "SolutionId": "80647e4b-340d-4344-a4e1-ab513e9964cc",
+  "Projects": [
+    {
+      "Id": "9debb16e-ee04-45b6-88e6-f40d855cb333",
+      "Type": "CaseManagement",
+      "ProjectRelativePath": "Maestro Case/project.uiproj"
+    }
+  ]
+}
